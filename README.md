@@ -1,5 +1,3 @@
-# modify
-国际版软件库
 <!DOCTYPE html>
 <html>
 <head>
